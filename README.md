@@ -25,6 +25,11 @@ Heat Map of The dataset is
 Heat Map of The dataset is
 ![](Images/heatmap-heart.png)
 
+4. [Chronic Kidney Disease Dataset](https://www.kaggle.com/abhia1999/chronic-kidney-disease) 
+
+Heat Map of The dataset is
+![](Images/heatmap-kidney.png)
+
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
