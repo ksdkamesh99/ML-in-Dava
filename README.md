@@ -15,7 +15,7 @@ The repository contains various python jupyter notebooks of predicting different
 | Cancer                | 99.12%              | 96.49%              | 94.73%                  | 92.10%        | 97.36%          |
 | Diabeties             | 76.62%              | 72.07%              | 78.57%                  | 75.97%        | 74.02%          |
 | Kidney                | %              | %              | %                   | %   | %          |
-| Heart                 | %              | %              | %                   | %   | %          |
+| Heart                 | 85.24%              | 73.77%              | 86.88%                   | 85.24%       | 86.88%          |
 | Liver                 | %              | %              | %                   | %  | %          |
 
 
