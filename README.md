@@ -20,6 +20,12 @@ Heat Map of The dataset is
 Heat Map of The dataset is
 ![](Images/heatmap-diabeties.png)
 
+3. [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) 
+
+Heat Map of The dataset is
+![](Images/heatmap-heart.png)
+
+
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
 
