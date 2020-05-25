@@ -30,6 +30,10 @@ Heat Map of The dataset is
 Heat Map of The dataset is
 ![](Images/heatmap-kidney.png)
 
+5. [Indian Liver Patient Records](https://www.kaggle.com/uciml/indian-liver-patient-records) 
+
+Heat Map of The dataset is
+![](Images/heatmap-liver.png)
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
