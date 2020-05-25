@@ -12,8 +12,8 @@ The repository contains various python jupyter notebooks of predicting different
 ## ✔✔ Accuracy ✔✔:-
 | Disease Name          | Logistic Regression | K Nearest Neighbors | Support Vector Machine  | Decision Tree | Random Forest   | 
 |-----------------------|---------------------|---------------------|-------------------------|---------------|-----------------|
-| Cancer                | 99.12%              | 96.49%              | 92.10%                   | 94.73%       | 97.36%          |
-| Diabeties             | %              | %              | %                   | %    | %          |
+| Cancer                | 99.12%              | 96.49%              | 94.73%                  | 92.10%        | 97.36%          |
+| Diabeties             | 76.62%              | 72.07%              | 78.57%                  | 75.97%        | 74.02%          |
 | Kidney                | %              | %              | %                   | %   | %          |
 | Heart                 | %              | %              | %                   | %   | %          |
 | Liver                 | %              | %              | %                   | %  | %          |
