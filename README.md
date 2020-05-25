@@ -10,9 +10,17 @@
 The repository contains various python jupyter notebooks of predicting different medical diseases from various open source datasets.The following medical diseases predicted are cancer,,diabeties,kidney diseases,heart disease,liver diseases using variou machine learning classification algorithms like KNN,Logistic Regression,Support Vector Machine,Decision Tree,Random Forest
 
 ## 🏁 Datasets Used:-
+1. [Cancer Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) 
 
+Heat Map of The dataset is
+![](Images/heatmap-cancer.png)
 
-## Contact:-
+2. [Pima Indians Diabeties Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database) 
+
+Heat Map of The dataset is
+![](Images/heatmap-diabeties.png)
+
+## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
 
 ## 📜 LICENSE
