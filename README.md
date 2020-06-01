@@ -17,7 +17,7 @@ The repository contains various python jupyter notebooks of predicting different
 | Kidney                | 97.50%              | 72.50%              | 96.25%                  | 98.75%        | 100.0%          |
 | Heart                 | 85.24%              | 73.77%              | 86.88%                  | 85.24%        | 86.88%          |
 | Liver                 | 78.16%              | 66.09%              | 74.71%                  | 74.71%        | 74.71%          |
-| Spine                 | 78.16%              | 66.09%              | 74.71%                  | 74.71%        | 74.71%          |
+| Spine                 | 83.87%              | 66.09%              | 74.71%                  | 74.71%        | 74.71%          |
 
 
 
